@@ -1,0 +1,1 @@
+[06-May-2015 10:12:26 America/Denver] PHP Fatal error:  Call to a member function get_records() on a non-object in /home6/cafeindi/public_html/rohitdhiman/CodeIgniter-3.0.0/application/controllers/Site.php on line 9

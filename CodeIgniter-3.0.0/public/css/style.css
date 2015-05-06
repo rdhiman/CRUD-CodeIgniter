@@ -1,0 +1,25 @@
+label {
+    display:block;
+}
+
+.record {
+    text-align: center;
+}
+.glyphicon {
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.add-customer {
+    text-align: left;
+    border: 1px solid #A2C0AC;
+    margin-top:25px;
+}
+
+.customers {
+    margin-left:180px;
+}
+.header{
+    background: rgb(186, 183, 183);
+    height: 82px;
+
+}
